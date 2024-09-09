@@ -1,0 +1,1 @@
+{"name":"Local: CountApartment2","url":"d:\\Algorithm\\DFS\\Assignment\\CountApartment2.cpp","tests":[{"id":1725694627483,"input":"\n5 8\n\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"2 2 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algorithm\\DFS\\Assignment\\CountApartment2.cpp","group":"local","local":true}

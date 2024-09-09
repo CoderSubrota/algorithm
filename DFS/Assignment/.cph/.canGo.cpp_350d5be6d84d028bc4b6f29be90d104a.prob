@@ -1,0 +1,1 @@
+{"name":"Local: canGo","url":"d:\\Algorithm\\DFS\\Assignment\\canGo.cpp","tests":[{"id":1725689659145,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algorithm\\DFS\\Assignment\\canGo.cpp","group":"local","local":true}

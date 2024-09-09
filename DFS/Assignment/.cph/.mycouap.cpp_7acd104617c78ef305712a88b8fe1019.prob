@@ -1,0 +1,1 @@
+{"name":"Local: mycouap","url":"d:\\Algorithm\\DFS\\Assignment\\mycouap.cpp","tests":[{"id":1725708036362,"input":"5 8\n\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"2 2 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algorithm\\DFS\\Assignment\\mycouap.cpp","group":"local","local":true}
