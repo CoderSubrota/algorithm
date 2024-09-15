@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        #name{
+            color: lime;
+            font-size: 22px;
+            font-family: cursive;
+            background: rgba(17, 4, 4);
+            padding: 22px;
+            border-radius: 38px;
+            border:none;
+            outline: none;
+            width: 380px;
+            margin: 28px;
+            transform: translate3d(50px);
+            box-shadow: inset 2px 4px 4px 8px  rgba(0, 255, 0, 0.8);
+        }
+           .myDiv{
+             height: 60px; width:25px;
+             background-color: cyan; border-radius: 25px; 
+             margin-left: 180px;
+             animation: borderAni 4s infinite linear;
+            }
+
+            .myCircle{
+                height: 258px;
+                width: 258px;
+                border-radius: 50%;
+                background-color: lime;
+                transform: translateX(25px);
+                margin-top: 320px;
+                margin-left: 60px;
+            }
+
+            @keyframes borderAni {
+                from{
+                 transform: translateY(310px);
+                }to{
+
+                    transform: translateY(-50px);
+                    filter: opacity(0);
+                }
+            }
+
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+ <div>
+    <input type="text" autocomplete="off" tabindex="1"  name="name" id="name" placeholder="Enter your name"/> 
+     <div class="myDiv"></div>
+     <div class="myCircle"></div>
+ </div>
+</body>
+</html>
