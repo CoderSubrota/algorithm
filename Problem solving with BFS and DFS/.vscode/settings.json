@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "E:\\MinGW\\bin\\g++.exe"
+}
